@@ -1,0 +1,24 @@
+
+    // ==UserScript==
+    // @name           chaturbate
+    // @version 1
+    // @namespace      chaturbate
+    // @description    chaturbate
+    // @include        http://chaturbate.com/*
+    // @include        http://*.chaturbate.com/*
+    // @exclude            http://serve.ads.chaturbate.com/*
+    // @run-at         document-start
+    // @grant          GM_getValue
+    // @grant          GM_setValue
+    // @grant          GM_addStyle
+    // @grant          GM_xmlhttpRequest
+    // ==/UserScript==
+     
+            scversion = 16.7;
+            flashplayer = "/static/flash/CBV_2p640.swf";
+     
+    //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    // if you see this text then save the file as *- newchaturbate.user.js -*
+    // after saving open it inside firefox and install it.
+    //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    //
